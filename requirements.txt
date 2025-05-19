@@ -1,0 +1,8 @@
+gradio
+openai>=1.0.0
+faiss-cpu
+sentence-transformers
+matplotlib
+pandas
+numpy
+tabulate
