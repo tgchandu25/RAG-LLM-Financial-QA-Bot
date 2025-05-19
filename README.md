@@ -58,7 +58,7 @@ User Query ──► Semantic Match (FAISS) + SQL Match (if metric) ──► GP
 ├── faiss_index.index           # FAISS index of vector chunks
 ├── faiss_metadata.pkl          # Metadata for each FAISS chunk
 ├── financial_metrics.db        # SQLite DB with revenue, EBITDA, PAT
-├── sample_Q1FY25.pdf            # Example financial PDF
+├── sample_Q1FY25.pdf           # Example financial PDF
 ├── requirements.txt            # All required Python packages
 └── README.md                   # This file
 ```
