@@ -121,8 +121,3 @@ Visit the deployed chatbot here:
 This project showcases a complete, production-grade chatbot capable of handling nuanced financial queries using both structured and unstructured data. Its hybrid architecture ensures versatility in real-world reporting or investor Q&A scenarios. The deployment on Hugging Face enables easy accessibility for demo and testing.
 
 ---
-
-## 👨‍💻 Author
-
-Developed and submitted as part of an internship assessment.  
-Project by **TG Chandu**.
